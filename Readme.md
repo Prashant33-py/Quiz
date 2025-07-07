@@ -1,0 +1,1 @@
+This repo contains Spring Boot REST API examples which will later on be converted to microservices.
